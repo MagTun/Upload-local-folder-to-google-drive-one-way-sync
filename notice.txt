@@ -1,0 +1,16 @@
++++ examples of variables +++
+
+FULL_PATH = r'C:\Users\Me\Desktop\'
+
+gdrive_dico_folder_id{"drive folder name ": "gdrive id of folder"}
+{'folder1': '0B4mUelWGAz_Qazk1cTRuQl9Ia00', 'folder2': '0B4mUelWGAz_QUGM5ZWViU1Q4WUk', 'folder3': '0B4mUelWGAz_QS0JwdzN0N2NVZm8', 'folder4': '0B4mUelWGAz_QQ2xEWklETWl4TDA'}
+
+gdrive_folders_tree_list 
+['folder1\\folder1.1', 'folder1\\folder1.1\\folder1.1.1', 'folder1\\folder1.2', 'folder1\\folder1.2\\folder1.2.1', 'folder1\\folder1.3']
+
+local_folders_tree_list
+['folder1\\folder1.1', 'folder1\\folder1.1\\folder1.1.1']
+
+gdrive_folders_to_be_removed ['folder1\\folderA', 'folder1\\folderB'] 
+new_folders_to_be_uploaded ['folder1\\folder1.3'] 
+existing_folders_to_be_updated ['folder1\\folder1.1', 'folder1\\folder1.1\\folder1.1.1', 'folder1\\folder1.2', 'folder1\\folder1.2\\folder1.2.1'] 
