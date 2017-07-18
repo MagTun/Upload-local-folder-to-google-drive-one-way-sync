@@ -1,11 +1,11 @@
-
-Upload a folder to Google drive from Windows context-menu
-
-#Difference with [I_love_cats1]
+# Upload a folder to Google drive from Windows context-menu
+Source code: [I_love_cats1]
+#### Difference with [I_love_cats1]
 - the folder path isn't handle in the same way
-- the variables has been renamed
+- the variables have been renamed
 
-#From [I_love_cats1]
+# ReadMe from [I_love_cats1]
+
 
 ![Google Drive sync logo](./google-drive-logo-logo.png)
 # Google-Drive-sync
