@@ -1,3 +1,12 @@
+
+Upload a folder to Google drive from Windows context-menu
+
+#Difference with [I_love_cats1]
+- the folder path isn't handle in the same way
+- the variables has been renamed
+
+#From [I_love_cats1]
+
 ![Google Drive sync logo](./google-drive-logo-logo.png)
 # Google-Drive-sync
 A Python script to automatically synchronize your Google Drive content with local storage files.
@@ -46,7 +55,7 @@ All of these items are extremely important because if you won't have at least on
 
 If you have any questions how to use this stuff, offerings or simply want to contact me, please write me anytime on Telegram [@I_love_cats1] or email <danilatsvet@gmail.com>.
 
-
+[I_love_cats1]: https://github.com/i-love-cats1
 [installation page]: https://developers.google.com/api-client-library/python/start/installation
 [@I_love_cats1]: https://web.telegram.org/#/im?p=@I_love_cats1
 [here]: https://console.developers.google.com/flows/enableapi?apiid=drive
