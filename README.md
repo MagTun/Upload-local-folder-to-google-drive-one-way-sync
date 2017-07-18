@@ -4,10 +4,12 @@ Source code: [I_love_cats1]
 - the folder path isn't handle in the same way
 - the variables have been renamed
 
+
+#### To Do:
+- allow upload folder somewhere else than root of google drive
+- multiple upload
+
 # ReadMe from [I_love_cats1]
-
-
-![Google Drive sync logo](./google-drive-logo-logo.png)
 # Google-Drive-sync
 A Python script to automatically synchronize your Google Drive content with local storage files.
 
